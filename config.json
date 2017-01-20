@@ -1,0 +1,10 @@
+{
+  "basePath": "/",
+  "port": "3000",
+  "db": "mongodb://localhost:27017/",
+  "messages": {
+    "onIndex": "Welcome to Planamera API!",
+    "onRun": "Magic happens on port %s",
+    "onRequest": "Someone is calling us!"
+  }
+}
