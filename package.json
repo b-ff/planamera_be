@@ -4,7 +4,7 @@
   "description": "Backend for providing JSON API to Planamera app",
   "main": "server.js",
   "scripts": {
-    "start": "mongod --dbpath=/Users/slava/Desktop/Projects/planamera_db && node server.js"
+    "start": "mongod --dbpath=/Users/slava/Desktop/Projects/planamera_db && node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Vyacheslav Biryukov (@b-ff) <networmx128bit@gmail.com>",
